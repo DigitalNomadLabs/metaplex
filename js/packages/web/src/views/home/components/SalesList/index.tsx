@@ -31,7 +31,7 @@ export const SalesListView = () => {
   return (
     <>
       <Banner
-        src="/main-banner.svg"
+        src="/ikiswap-banner.png"
         headingText="The amazing Island of GenDora."
         subHeadingText="Buy exclusive GenDora NFTs."
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
